@@ -1,5 +1,7 @@
 <resources>
 
     <string name="app_name">Guidebook Accessibility Service</string>
+    <string name="service_label">Guidebook Service</string>
+    <string name="accessibility_service_description">Guidebook Service</string>
 
 </resources>
