@@ -1,0 +1,15 @@
+//
+//  HJBAppDelegate.h
+//  HJBAccessibility
+//
+//  Created by Heath Borders on 8/27/13.
+//  Copyright (c) 2013 Heath Borders. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface HJBAppDelegate : UIResponder <UIApplicationDelegate>
+
+@property (strong, nonatomic) UIWindow *window;
+
+@end
